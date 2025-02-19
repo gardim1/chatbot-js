@@ -3,6 +3,8 @@ package-lock.json
 
 .session/
 .wwebjs_auth/
+.wwebjs_cache/
+
 
 *.log
 *.tmp
