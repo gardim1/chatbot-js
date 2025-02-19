@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+
+.session/
+.wwebjs_auth/
+
+*.log
+*.tmp
+debug.log
+
+.DS_Store
+Thumbs.db
